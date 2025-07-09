@@ -1,6 +1,7 @@
 
 import { Entity, PrimaryGeneratedColumn, Column, OneToMany } from 'typeorm';
 import { MatriculaTreino } from 'src/matricula-treino/entities/matricula-treino.entity';
+import { Frequencia } from 'src/frequencia/entities/frequencia.entity';
 
 @Entity('treinos')
 export class Treino {
@@ -24,4 +25,7 @@ export class Treino {
 
   @OneToMany(() => MatriculaTreino, matriculaTreino => matriculaTreino.treino)
   matriculasTreino: MatriculaTreino[];
+
+  @OneToMany(() => Frequencia, frequencia => frequencia.treino)
+  frequencias: Frequencia[];
 }
