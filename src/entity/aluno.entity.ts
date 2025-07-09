@@ -1,4 +1,4 @@
-// src/aluno/entities/aluno.entity.ts
+
 import { Entity, PrimaryGeneratedColumn, Column, OneToMany } from 'typeorm';
 import { MatriculaTreino } from './matricula-treino.entity';
 

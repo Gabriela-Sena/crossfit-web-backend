@@ -1,4 +1,4 @@
-// src/matricula-treino/entities/matricula-treino.entity.ts
+
 import { Entity, PrimaryGeneratedColumn, Column, ManyToOne, JoinColumn, CreateDateColumn } from 'typeorm';
 import { Aluno } from './aluno.entity';
 import { Treino } from './treino.entity';
