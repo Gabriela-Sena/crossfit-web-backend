@@ -1,6 +1,6 @@
 
 import { Entity, PrimaryGeneratedColumn, Column, OneToMany } from 'typeorm';
-import { MatriculaTreino } from './matricula-treino.entity';
+import { MatriculaTreino } from 'src/matricula-treino/entities/matricula-treino.entity';
 
 @Entity('treinos')
 export class Treino {
