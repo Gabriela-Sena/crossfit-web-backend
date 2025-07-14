@@ -1,28 +1,6 @@
 # CrossFit Web - Backend
 
-\<p align="center"\>
-\<a href="[http://nestjs.com/](http://nestjs.com/)" target="blank"\>\<img src="[https://nestjs.com/img/logo-small.svg](https://nestjs.com/img/logo-small.svg)" width="120" alt="Nest Logo" /\>\</a\>
-\</p\>
-
-\<p align="center"\>
 Backend do projeto CrossFit Web, construído com NestJS, um framework Node.js progressivo para a criação de aplicações server-side eficientes e escaláveis.
-\</p\>
-
-\<p align="center"\>
-\<a href="[https://www.npmjs.com/\~nestjscore](https://www.npmjs.com/~nestjscore)" target="\_blank"\>\<img src="[https://img.shields.io/npm/v/@nestjs/core.svg](https://img.shields.io/npm/v/@nestjs/core.svg)" alt="NPM Version" /\>\</a\>
-\<a href="[https://www.npmjs.com/\~nestjscore](https://www.npmjs.com/~nestjscore)" target="\_blank"\>\<img src="[https://img.shields.io/npm/l/@nestjs/core.svg](https://img.shields.io/npm/l/@nestjs/core.svg)" alt="Package License" /\>\</a\>
-\<a href="[https://www.npmjs.com/\~nestjscore](https://www.npmjs.com/~nestjscore)" target="\_blank"\>\<img src="[https://img.shields.io/npm/dm/@nestjs/common.svg](https://img.shields.io/npm/dm/@nestjs/common.svg)" alt="NPM Downloads" /\>\</a\>
-\<a href="[https://circleci.com/gh/nestjs/nest](https://circleci.com/gh/nestjs/nest)" target="\_blank"\>\<img src="[https://img.shields.io/circleci/build/github/nestjs/nest/master](https://img.shields.io/circleci/build/github/nestjs/nest/master)" alt="CircleCI" /\>\</a\>
-\<a href="[https://discord.gg/G7Qnnhy](https://discord.gg/G7Qnnhy)" target="\_blank"\>\<img src="[https://img.shields.io/badge/discord-online-brightgreen.svg](https://img.shields.io/badge/discord-online-brightgreen.svg)" alt="Discord"/\>\</a\>
-\</p\>
-
-\<p align="center"\>
-\<a href="\#-sobre-o-projeto"\>Sobre\</a\> •
-\<a href="\#-tecnologias-utilizadas"\>Tecnologias\</a\> •
-\<a href="\#-começando"\>Começando\</a\> •
-\<a href="\#-testes"\>Testes\</a\> •
-\<a href="\#-licença"\>Licença\</a\>
-\</p\>
 
 -----
 
@@ -128,6 +106,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.c
 
 -----
 
-\<p align="center"\>
-Feito com ❤️ por \<strong\>Gabriela Sena\</strong\>, com o apoio da comunidade NestJS.
-\</p\>
+Feito com ❤️ por Gabriela Sena, com o apoio da comunidade NestJS.
